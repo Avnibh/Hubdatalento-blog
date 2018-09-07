@@ -1,0 +1,90 @@
+.accordion {
+    list-style-type: none;
+    padding:4px 20px;
+    margin: 14px 0;
+}
+
+.accordion ul {
+    padding: 0;
+    margin: 0;
+    display: block;
+    width: 100%;
+}
+
+.accordion li {
+    cursor: pointer;
+    display: block;
+    position: relative;
+}
+
+.accordion li.active> span.down-up:before {
+content: "\f107";
+    font-family: FontAwesome;
+    font-size: 15px;
+}
+
+.accordion span.down-up {
+    color: #fff;
+    padding: 4px 12px;
+    position: absolute;
+    right: 0;
+    top: 4px;
+}
+.style-2 .more a {
+    color: #999;
+}
+.accordion span.down-up:before {
+    content: "\f105";
+    font-family: FontAwesome;
+    font-size: 15px;
+}
+
+.accordion a:hover {
+    color: #444444;
+}
+.accordion a {
+}
+.accordion span.down-up {
+  color: #fff;
+  font-weight: bold;
+}
+.accordion a {
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 12px 0;
+    text-align: left;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+.accordion span.down-up:hover {
+    color: #13be13;
+}
+.accordion li:hover> a,.accordion li:hover> span{
+    color: #13be13;
+}
+
+.accordion ul a {
+    padding: 7px 0 7px 15px;
+}
+.accordion ul > li > a::before {
+    background: #fff;
+    content: "";
+    display: inline-block;
+    height: 5px;
+    margin-right: 8px;
+    transform: rotate(45deg);
+    width: 5px;
+}
+.accordion ul > li > a::before {
+    background: #13be13;
+}
+
+.accordion li:hover> a:before,.accordion li:hover>a::before {
+    background: #fff;
+}
+.accordion ul>li>ul>li> a {
+    padding: 7px 0 7px 25px;
+}

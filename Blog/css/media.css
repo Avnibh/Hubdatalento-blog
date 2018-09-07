@@ -1,0 +1,2010 @@
+/*
+  Template Name:Movie Star Multipurpose HTML5 template.
+  Theme URL:http://movie.themepul.com/
+  Author: Themepul
+  Author URI: http://themepul.com
+  tag:film review, movie, movie database, movie series, presentation, showcase, tv show
+  Version: 1.0
+*/
+@media (min-width:3500px) and (max-width: 5120px) {
+.slider-contents {
+    padding: 6% 0;
+}
+.home-2 .slider-2.bs-slider,.home-4 .slider-2.bs-slider {
+    max-height: 1213px;
+}
+.home-2 .slider-2 .slider-contents {
+    padding: 8% 0;
+}
+.home-5 .slider-contents {
+    padding: 4% 0;
+}
+}
+@media (min-width:2160px) and (max-width: 4096px) {
+.home-2 .slider-2.bs-slider,.home-4 .slider-2.bs-slider {
+    max-height: 1100px;
+}
+.home-2 .slider-2 .slider-contents {
+    padding: 9% 0;
+}
+.home-5 .slider-contents {
+    padding: 4% 0;
+}
+}
+@media (min-width:2160px) and (max-width: 3840px) {
+.home-2 .slider-2.bs-slider,.home-4 .slider-2.bs-slider {
+    max-height: 1100px;
+}
+}
+@media (min-width:1400px) and (max-width: 1440px) {
+     .home-2 .slider-items {
+        height: 670px;
+    }
+    .home-2 .slider-img img{
+        height: 100%
+    }
+    .home-4 .slider-contents {
+        padding: 8% 0;
+    }
+    .home-5 .slider-items {
+        height: 600px;
+    }
+    .slider-img img{
+        height: 100%
+    }
+}
+@media (min-width:1366px) and (max-width: 1380px) {
+    .home-4 .buy-ticket-inner {
+        top: -123px;
+        position: relative;
+        margin-bottom: -107px;
+    }
+    .home-4 .new-movie {
+        padding-top: 75px;
+    }   
+    .time-bg {
+        padding: 14% 0;
+    }
+    .home-2 .slider-items {
+        height: 670px;
+    }
+    
+    .home-5 .slider-items {
+        height: 600px;
+    }
+    .home-4 .slider-contents {
+        padding: 12% 0;
+        padding-bottom: 0;
+    }
+    .home-3 .slider-2 .slider-contents {
+        padding: 7% 0;
+    }
+    .home-2 .slider-img img {
+        height: 100%;
+        object-fit: cover;
+    }
+    .home-3 .slide-movie-items .movie-item-title > a {
+        font-size: 19px;
+        font-weight: 500;
+        line-height: 25px;
+    }
+    .home-3 .slide-movie-items .item-cat ul li span,.home-3 .slide-movie-items .item-cat ul li a {
+        font-size: 16px;
+    }
+   .home-3 .slide-movie-items .item-cat {
+        padding-top: 3px;
+        padding-bottom: 0;
+    }
+     .home-3 .slide-movie-items .movie-item-beta {
+        margin-top: 0;
+        padding-top: 10px;
+    }
+    .home-3 .slide-movie-items .flat-icons span.flaticon-play-button:before {
+        font-size: 45px;
+    }
+    .home-3 .slide-movie-items .movie-item-content-center {
+        top: 25%;
+    }
+}
+@media (min-width:1025px) and (max-width: 1280px) {
+    .movie-item-content-center {
+        top: 30%;
+    }
+    .timer-content h2 {
+        font-size: 56px;
+        padding: 3px;
+    }
+    .home-2 .slider-img img {
+        height: 700px;
+        object-fit: cover;
+    }
+    .slider-2.bs-slider {
+        height: 700px;
+    }
+    .slider-2 .slider-contents {
+        padding: 14% 0;
+        padding-bottom: 0;
+    }
+    .home-3 .slider-2 .slider-contents {
+        padding: 9% 0;
+    }
+    .slider-2 .slider-content {
+        padding: 9% 0;
+    }
+    .slider-contents .movie-item-beta {
+        margin-top: -15px;
+    }
+    .movie-item-content-center {
+        top: 25%;
+    }
+    .home-3 .movie-item-title > a {
+        font-size: 17px;
+    }
+    .home-3 .movie-item-beta {
+        margin-top: 0;
+        padding-top: 0;
+    }
+    .home-3 .slider-2.bs-slider {
+        height: auto;
+    }
+    .home-4 .slider-2 .slider-content {
+        padding: 0;
+    }
+    .home-5 .buy-ticket-bg5 {
+        padding: 8% 0;
+    }
+    .home-5 .top-rating {
+        margin-top: 0;
+    }
+    .error-bg {
+        padding: 10% 0;
+    }
+    .error-bg2 {
+        padding: 15% 0;
+    }
+}
+
+@media (max-width:1024px) and (orientation: landscape) {
+    .home-5 .buy-ticket-bg5 {
+        padding: 8% 0;
+    }
+    .home-5 .top-rating {
+        margin-top: 0;
+    }
+    .slider-contents {
+        padding: 7% 0;
+    }
+    .slider-content > p {
+        padding: 1px 49px;
+    }
+    .slider-content a.btn.btn-button {
+        margin-top: 13px;
+    }
+    .movie-item-title > a {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .home-4 .buy-ticket-inner {
+        position: unset;
+    }
+    .home-4 .slider-2 .slider-contents {
+        padding: 6% 0;
+        padding-bottom: 0;
+    }
+    .item-cat {
+        padding: 5px 14px;
+        padding-bottom: 11px;
+    }
+    .item-cat ul li span {
+        font-size: 17px;
+        margin-right: 0px;
+    }
+    .movie-item-title {
+        padding: 0 14px;
+    }
+    .movie-item-beta,
+    .category-movie-items .movie-item-beta,
+    .Top-rating-items .movie-item-beta {
+        margin-top: 9px;
+        padding-top: 17px;
+    }
+    .new-movie-inner .owl-nav {
+        right: -25em;
+    }
+    .Top-rating-items .owl-item.active.center,
+    .Top-rating-items .owl-item.active.center .movie-item-contents img {
+        height: auto;
+    }
+    .Top-rating-items .owl-item.active.center .movie-item-contents {
+        height: auto;
+        margin-top: 0;
+    }
+    .Top-rating-items .owl-prev,
+    .movie-big .owl-prev {
+        right: 52px;
+    }
+    .Top-rating-items .owl-next,
+    .movie-big .owl-next {
+        right: 13px;
+    }
+    .plylist-single-content > a {
+        font-size: 13px;
+        line-height: 17px;
+        overflow: hidden;
+        display: inherit;
+    }
+    nav.navbar.bootsnav .navbar-toggle {
+        background-color: transparent;
+        color: #fff;
+    }
+    nav.navbar.bootsnav ul.nav > li > a {
+        padding: 13px 15px;
+        font-size: 14px;
+        font-weight: normal;
+    }
+    nav.navbar.bootsnav ul.nav > li > a {
+        margin-bottom: -1px;
+    }
+    nav.navbar.bootsnav ul.nav li.dropdown ul.dropdown-menu > li > a {
+        color: #fff;
+        font-weight: normal;
+    }
+    .time-bg {
+        padding: 27% 0;
+    }
+    .timer-contents {
+        padding: 21% 0;
+    }
+    .header-2 nav.navbar.bootsnav ul.nav > li > a {
+        padding: 33px 11px;
+    }
+    .latest-news-small .movie-item-title a {
+        font-size: 15px;
+        line-height: 27px;
+    }
+    .scroll-up {
+        max-height: 387px;
+    }
+    .plylist-img {
+        padding-bottom: 26px;
+    }
+    .buy-ticket-select {
+        margin-top: 30px;
+    }
+    .item-cat ul li a {
+        font-size: 16px;
+    }
+    .social-link ul li a {
+        margin-right: 0;
+    }
+    .movie-item-content-center {
+        top: 50%;
+    }
+    .twitter-meta ul li {
+        margin: 0px;
+    }
+    .ft-content.twitter-contnt {
+        padding: 20px 14px;
+    }
+    .twitter-dec p {
+        padding: 0;
+        padding-bottom: 12px;
+    }
+    .home-2 .slider-img img {
+        height: 540px;
+        object-fit: cover;
+    }
+    .slider-2.bs-slider {
+        height: 540px;
+    }
+    .slider-2 .slider-contents {
+        padding: 14% 0;
+        padding-bottom: 0;
+    }
+    .slider-2 .slider-content {
+        padding: 9% 0;
+    }
+    .home-3 .slider-2 .slider-content > h2 {
+        font-size: 47px;
+    }
+    .home-3 .slider-img img {
+        height: 540px;
+        object-fit: cover;
+    }
+    .slider-3.bs-slider {
+        height: 540px;
+    }
+    .slider-3 .slider-contents {
+        padding: 14% 0;
+        padding-bottom: 0;
+    }
+    .slider-3 .slider-content {
+        padding: 9% 0;
+    }
+    .slider-contents .movie-item-beta {
+        margin-top: -15px;
+    }
+    .movie-item-content-center {
+        top: 25%;
+    }
+    .event-content {
+        padding: 58px 19px;
+    }
+    .event-content a {
+        font-size: 14px;
+    }
+    .event-content {
+        padding: 11px 19px;
+    }
+    .event-content .celerite-info ul li label {
+        margin-right: 0;
+        margin-bottom: 0;
+    }
+    .event-content {
+        padding-right: 0;
+    }
+    .event-meta ul li a.event-icon {
+        padding: 18px 25px;
+    }
+    .event-meta ul li a {
+        padding: 18px 12px;
+    }
+    .event-timer .syotimer-cell__value {
+        padding: 11px 16px;
+    }
+    .pagination>li>a,
+    .pagination>li>span {
+        margin: 0 1px;
+    }
+    .error-bg {
+        padding: 10% 0;
+    }
+    .error-bg2 {
+        padding: 15% 0;
+    }
+}
+
+@media (max-width:966px) and (orientation: landscape) {
+    .slider-2 .slider-contents {
+        padding: 10% 0;
+        padding-bottom: 0;
+    }
+    .movie-big .movie-item-content-center,
+    .latest-news-section .movie-item-content-center {
+        top: 50%;
+    }
+    .error-bg2 {
+        padding: 15% 0;
+    }
+}
+
+@media (min-width:800px) and (max-width:1022px) {
+    .slider-2 .slider-content > h2 {
+        font-size: 49px;
+        margin: 0;
+    }
+    .slider-2 .slider-content > p {
+        margin-bottom: 9px;
+    }
+    .home-4 .slider-2 .slider-content > h2 {
+        font-size: 45px;
+    }
+    .home-4 .slider-contents {
+        padding: 13% 0;
+    }
+    .product-filter .sm-width {
+        width: 33%;
+    }
+    .full-withcon p {
+        padding-bottom: 0;
+    }
+}
+
+@media (min-width:768px) and (max-width:1023px) {
+    .error-bg {
+        padding: 10% 0;
+    }
+    .home-5 .buy-ticket-bg5 {
+        padding: 8% 0;
+    }
+    .home-5 .top-rating {
+        margin-top: 0;
+    }
+    .header-2 .navbar-brand {
+        padding: 0;
+    }
+    .home-5 nav.navbar.bootsnav .navbar-toggle {
+        background-color: transparent;
+        color: #333;
+    }
+    .home-5 .attr-nav > ul > li > a {
+        padding: 7px 29px 6px 9px;
+        margin: 28px 4px;
+        width: 100%;
+        padding-right: 4px;
+    }
+    .home-5 .slider-img img {
+        height: 100%;
+        width: 100%;
+    }
+    .slider-contents {
+        padding: 4% 0;
+    }
+    .twitter-dec p {
+        padding: 0;
+        padding-right: 47px;
+        margin-bottom: 17px;
+    }
+    .Top-rating-items .movie-item-content-center {
+        top: 27%;
+    }
+    .sm-width-33 {
+        width: 33%;
+    }
+    .timer-content h2 {
+        font-size: 57px;
+    }
+    nav.navbar.bootsnav .navbar-toggle {
+        background-color: transparent;
+        color: #fff;
+    }
+    nav.navbar.bootsnav ul.nav > li > a {
+        padding: 13px 15px;
+        font-size: 14px;
+        font-weight: normal;
+    }
+    nav.navbar.bootsnav ul.nav > li > a {
+        margin-bottom: -1px;
+    }
+    nav.navbar.bootsnav ul.nav li.dropdown ul.dropdown-menu > li > a {
+        color: #fff;
+        font-weight: normal;
+    }
+    .Top-rating-items .owl-item.active.center,
+    .Top-rating-items .owl-item.active.center .movie-item-contents img {
+        height: auto;
+    }
+    .Top-rating-items .owl-item.active.center .movie-item-contents {
+        height: auto;
+        margin-top: 0;
+    }
+    .Top-rating-items .movie-item-title > a {
+        font-size: 13px;
+        line-height: 21px;
+    }
+    .Top-rating-items .item-cat ul li a {
+        font-size: 13px;
+    }
+    .Top-rating-items .item-cat ul li {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .Top-rating-items .item-cat {
+        padding-top: 0;
+    }
+    .Top-rating-items .movie-item-beta {
+        margin-top: 0;
+        padding-top: 0;
+    }
+    .top-messages p {
+        font-size: 13px;
+    }
+    .Top-rating-items .item-cat ul li span {
+        font-size: 14px;
+        margin-right: 0px;
+    }
+    .time-bg {
+        padding: 27% 0;
+    }
+    .timer-contents {
+        padding: 21% 0;
+    }
+    .home-4 .slider-2 .slider-content > h2 {
+        font-size: 27px;
+        margin: 0;
+        padding: 0;
+    }
+    .home-4 .slider-contents {
+        padding: 13% 0;
+    }
+    .home-4 .buy-ticket-bg {
+        padding-top: 47px;
+    }
+    .home-4 .new-movie {
+        padding-top: 51px;
+    }
+    .home-4 .slider-2 .slider-content {
+        padding: 0;
+    }
+    .home-4 .buy-ticket-inner {
+        position: unset;
+    }
+    .home-4 .slider-2 .slider-content > p {
+        padding: 2px 47px;
+        height: auto;
+    }
+    .latest-news-small {
+        margin-top: 30px;
+    }
+    .latest-news-small .movie-item-title a {
+        font-size: 20px;
+        line-height: 27px;
+    }
+    .new-movie-inner .owl-nav {
+        right: 0;
+    }
+    .buy-ticket-select {
+        margin-top: 30px;
+    }
+    .item-cat ul li a {
+        font-size: 16px;
+    }
+    .ft-widget {
+        min-height: 364px;
+        padding-bottom: 0;
+        margin-bottom: -48px;
+        margin-top: 83px;
+    }
+    .footer-bg {
+        padding-top: 206px;
+    }
+    .footer-menu ul li a {
+        margin-right: 22px;
+    }
+    .movie-big .owl-next {
+        right: 0;
+    }
+    .movie-big .owl-prev {
+        right: 43px;
+    }
+    /*** home 2 ***/
+    .header-2 .navbar-brand {
+        padding: 0;
+    }
+    .header-2 .attr-nav > ul > li > a {
+        padding: 0;
+        border-radius: 100%;
+        width: 40px;
+        height: 40px;
+        position: relative;
+        font-size: 0
+    }
+    .header-2 .attr-nav > ul > li.search > a:after {
+        content: "\f002";
+        font-family: fontawesome;
+        font-size: 15px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        padding: 9px 13px;
+    }
+    .slider-2 .slider-content > p {
+        line-height: 22px;
+        margin-bottom: 10px;
+        padding: 0;
+        font-size: 14px;
+        padding: 0 62px;
+        height: 40px;
+        overflow: hidden;
+    }
+    .slider-2 .slider-content > p {
+        line-height: 22px;
+        margin-bottom: 0;
+        padding: 0;
+        font-size: 14px;
+        padding: 0 62px;
+        height: 40px;
+        overflow: hidden;
+    }
+    .slider-2 .slider-content {
+        padding: 7% 0;
+    }
+    .slider-2 .slider-img {
+        height: auto;
+        object-fit: cover;
+    }
+    .slider-2 .slider-img img {
+        object-fit: cover;
+    }
+    .slider-2.bs-slider {
+        height: 336px;
+    }
+    .home-3 .slider-2 .slider-content {
+        padding: 0;
+    }
+    .home-3 .footer-bg,
+    .home-4 .footer-bg {
+        padding-top: 0;
+    }
+    .event-meta,
+    .event-timer .event-timers {
+        text-align: center;
+    }
+    .event-content {
+        padding: 58px 19px;
+    }
+    .selebritie-list .sm-width {
+        width: 45%;
+    }
+    .breadcrumbs {
+        padding: 22px 0;
+    }
+    .full-withcon {
+        padding-left: 35px;
+        padding-right: 20px;
+        padding-top: 8px;
+    }
+   
+    aside .product-filter .sm-width {
+        width: 100%;
+        text-align: center;
+    }
+    #grid .col-xs-12 {
+        width: 50%;
+    }
+    aside #grid .col-xs-12 {
+        width: 100%;
+    }
+    aside .product-filter-list .pagination-wrapper {
+        text-align: center;
+    }
+    .error-bg2 {
+        padding: 15% 0;
+    }
+}
+
+@media (max-width:853px) and (orientation: landscape) {
+    .list-items {
+    margin-top: 30px;
+}
+    .product-filter .sm-width {
+        width: 33%;
+    }
+    .full-withcon p {
+        padding-bottom: 0;
+    }
+    ul.gallery-list li {
+        margin-bottom: 30px;
+        width: 50%;
+        z-index: 999;
+    }
+    .peoduct-dec {
+        height: 100px;
+        overflow: hidden;
+    }
+    .home-5 .top-rating {
+        margin-top: 0;
+    }
+    .header-2 .navbar-brand {
+        padding: 0;
+    }
+    .home-5 nav.navbar.bootsnav .navbar-toggle {
+        background-color: transparent;
+        color: #333;
+    }
+    .home-5 .attr-nav > ul > li > a {
+        padding: 7px 29px 6px 9px;
+        margin: 28px 4px;
+        width: 100%;
+        padding-right: 4px;
+    }
+    .home-5 .slider-img img {
+        height: 100%;
+        width: 100%;
+    }
+    .slider-contents {
+        padding: 4% 0;
+    }
+    nav.navbar.bootsnav .navbar-toggle {
+        background-color: transparent;
+        color: #fff;
+    }
+    nav.navbar.bootsnav ul.nav > li > a {
+        padding: 13px 15px;
+        font-size: 14px;
+        font-weight: normal;
+    }
+    nav.navbar.bootsnav ul.nav > li > a {
+        margin-bottom: -1px;
+    }
+    nav.navbar.bootsnav ul.nav li.dropdown ul.dropdown-menu > li > a {
+        color: #fff;
+        font-weight: normal;
+    }
+    /*** END HEADER ***/
+    .top-messages {
+        text-align: right;
+    }
+    /** Category ***/
+    .cat-menu ul li {
+        margin-right: 0;
+    }
+    .buy-ticket-inner {
+        top: -159px;
+    }
+    .latest-news-small .movie-item-title a {
+        font-size: 20px;
+        line-height: 29px;
+    }
+    .movie-item-title > a {
+        line-height: 32px;
+    }
+    .sm-width {
+        width: 50%;
+    }
+    .top-account.sm-width-33 {
+        width: 30%;
+    }
+    .sm-width-33 {
+        width: 33%;
+    }
+    .top-message.sm-width-33 {
+        width: 37%;
+    }
+    .twitter-meta ul li {
+        margin: 0px 11px;
+    }
+    .category-items .movie-item-title > a {
+        font-size: 20px;
+    }
+    .Top-rating-items .movie-item-title > a {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .Top-rating-items .movie-item-content-center {
+        top: 22%;
+    }
+    .item-cat ul li a {
+        font-size: 15px;
+    }
+    .Top-rating-items .owl-item.active.center,
+    .Top-rating-items .owl-item.active.center .movie-item-contents img {
+        height: auto;
+    }
+    .Top-rating-items .owl-item.active.center .movie-item-contents {
+        height: auto;
+        margin-top: 0;
+    }
+    .Top-rating-items .item-cat-hover,
+    .category-items .item-cat-hover {
+        margin-top: 0;
+    }
+    .category-items .movie-item-content-center {
+        top: 27%;
+    }
+    .Top-rating-items .movie-item-beta,
+    .category-items .movie-item-beta {
+        margin-top: 0;
+        padding-top: 0;
+    }
+    .Top-rating-items .owl-prev,
+    .movie-big .owl-prev {
+        right: 52px;
+    }
+    .Top-rating-items .owl-next,
+    .movie-big .owl-next {
+        right: 13px;
+    }
+    .buy-ticket-select {
+        margin: 8px 0;
+    }
+    .buy-ticket-select select {
+        height: 43px;
+        padding: 11px 19px;
+    }
+    .buy-ticket-btn {
+        margin-top: 16px;
+    }
+    .buy-ticket-bg {
+        padding: 17% 9%;
+        padding-bottom: 12%;
+    }
+    .home-4 .buy-ticket-inner {
+        top: 0;
+        position: unset;
+    }
+    .home-4 .new-movie {
+        padding-top: 50px;
+    }
+    .home-4 .slider-2 .slider-content > h2 {
+        margin: 0;
+        font-size: 37px;
+    }
+    .home-4 .slider-2 .slider-contents {
+        padding: 6% 0;
+    }
+    .footer-bg {
+        padding-top: 44%;
+        padding-bottom: 0;
+    }
+    .home-3 .footer-bg,
+    .home-4 .footer-bg {
+        padding-top: 0;
+    }
+    .home-2 .footer-bg {
+        padding-top: 25%;
+    }
+    .hiddens {
+        display: block;
+    }
+    .top-message {
+        margin: 0;
+    }
+    .new-movie-inner .owl-nav {
+        right: 0;
+    }
+    .movie-item-contents {
+        margin-top: 30px;
+    }
+    .movie-item-playlist {
+        margin-top: 30px;
+    }
+    /** START LATEST NEWS **/
+    .latest-news-section {
+        padding-bottom: 176px;
+    }
+    /**  START COMMING SOON **/
+    .timer-contents {
+        padding: 0;
+        position: relative;
+    }
+    .timer-content h2 {
+        font-size: 51px;
+    }
+    .time-bg {
+        padding: 15% 0;
+    }
+    .timer-content {
+        display: block;
+        position: relative;
+        height: auto;
+    }
+    /** START FOOTER **/
+    .copyright {
+        text-align: center;
+    }
+    .ft-widget {
+        min-height: 395px;
+    }
+    .footer-menu ul li a {
+        margin-right: 14px;
+    }
+    /*** home 2 ***/
+    .header-2 .navbar-brand {
+        padding: 0;
+    }
+    .header-2 .attr-nav > ul > li > a {
+        padding: 0;
+        border-radius: 100%;
+        width: 40px;
+        height: 40px;
+        position: relative;
+        font-size: 0
+    }
+    .header-2 .attr-nav > ul > li.search > a:after {
+        content: "\f002";
+        font-family: fontawesome;
+        font-size: 15px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        padding: 9px 13px;
+    }
+    .slider-2 .slider-content > h2 {
+        font-size: 26px;
+        letter-spacing: -1px;
+        word-spacing: -1px;
+        text-transform: uppercase;
+        margin: 6px;
+    }
+    .home-3 .slider-2 .slider-content > h2 {
+        font-size: 42px;
+        letter-spacing: -1px;
+        word-spacing: -1px;
+        text-transform: uppercase;
+        margin: 6px;
+    }
+    .slider-2 .slider-content > p,
+    .home-3 .slider-2 .slider-content > p {
+        line-height: 22px;
+        margin-bottom: 0;
+        padding: 0;
+        font-size: 14px;
+        padding: 0 62px;
+        height: 40px;
+        overflow: hidden;
+    }
+    .slider-2 .slider-content {
+        padding: 7% 0;
+    }
+    .home-3 .slider-2 .slider-content {
+        padding: 2% 0;
+    }
+    .slider-2 .slider-img,
+    .home-3 .slider-2 .slider-img {
+        height: auto;
+        object-fit: cover;
+    }
+    .slider-2 .slider-img img,
+    .home-3 .slider-2 .slider-img img {
+        object-fit: cover;
+    }
+    .slider-2.bs-slider,
+    .home-3 .slider-2.bs-slider {
+        height: 336px;
+    }
+    .event-meta,
+    .event-timer .event-timers {
+        text-align: center;
+    }
+    #grid .col-xs-12 {
+        width: 50%;
+    }
+    aside #grid .col-xs-12 {
+        width: 100%;
+    }
+    aside .product-filter .sm-width {
+        width: 100%;
+    }
+    aside .product-filter-list {
+        padding: 10px 0;
+        padding-bottom: 0;
+        text-align: center;
+    }
+    aside .product-filter-list .pagination-wrapper {
+        text-align: center;
+    }
+}
+@media (min-width:750px) and (max-width:1023px) {
+    .selebritie-list-view .selebritie-list .sm-width {
+        width: 100%;
+    }
+    .new-movie-inner .owl-nav {
+        right: 49px;
+    }
+    .Top-rating-items .movie-item-title > a {
+        font-size: 24px;
+        line-height: 24px;
+    }
+    .Top-rating-items .item-cat {
+        padding-top: 13px;
+    }
+    .Top-rating-items .item-cat ul li span,.Top-rating-items .item-cat ul li a {
+        font-size: 24px;
+    }
+    .Top-rating-items .item-cat-hover {
+        margin-top: 15px;
+        margin-bottom: -68px;
+    }
+    
+}
+
+@media (max-width:768px) and (orientation: landscape) {
+    .product-filter .sm-width {
+        width: 33%;
+    }
+    .product-filter-list {
+        text-align: left;
+    } 
+    .full-withcon p {
+        padding-bottom: 0;
+        margin: 5px 0;
+    }
+    .page-template .footer-bg {
+        padding-top: 60px;
+    }
+    .full-withcon {
+        padding-right: 0;
+        padding-top: 7px;
+    }
+}
+@media (max-width:690px) and (orientation: landscape) {
+        .product-filter .sm-width {
+        width: 33%;
+    }
+    .product-filter-list {
+        text-align: left;
+    }
+    ul.gallery-list li {
+        margin-bottom: 30px;
+        width: 50%;
+        z-index: 999;
+    }
+    .home-5 .top-rating {
+        margin-top: 0;
+    }
+    .header-2 .navbar-brand {
+        padding: 0;
+    }
+    .home-5 nav.navbar.bootsnav .navbar-toggle {
+        background-color: transparent;
+        color: #333;
+    }
+    .home-5 .attr-nav > ul > li > a {
+        padding: 7px 29px 6px 9px;
+        margin: 28px 4px;
+        width: 100%;
+        padding-right: 4px;
+    }
+    .home-5 .slider-img img {
+        height: 100%;
+        width: 100%;
+    }
+    .top-messages {
+        text-align: right;
+    }
+    /** Category ***/
+    .cat-menu ul li {
+        margin-right: 0;
+    }
+    .sm-width {
+        width: 50%;
+    }
+    .Top-rating-items .owl-item.active.center,
+    .Top-rating-items .owl-item.active.center .movie-item-contents img {
+        height: auto;
+    }
+    .Top-rating-items .owl-item.active.center .movie-item-contents {
+        height: auto;
+        margin-top: 0;
+    }
+    .Top-rating-items .movie-item-title > a {
+        font-size: 20px;
+        line-height: 21px;
+    }
+    .Top-rating-items .item-cat ul li a {
+        font-size: 18px;
+    }
+    .Top-rating-items .item-cat ul li {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .Top-rating-items .item-cat {
+        padding-top: 0;
+    }
+    .Top-rating-items .movie-item-beta {
+        margin-top: 0;
+        padding-top: 0;
+    }
+    .Top-rating-items .owl-prev,
+    .movie-big .owl-prev {
+        right: 52px;
+    }
+    .Top-rating-items .owl-next,
+    .movie-big .owl-next {
+        right: 13px;
+    }
+    .top-message.sm-width-33,
+    .top-account.sm-width-33 {
+        width: 50%;
+    }
+    .latest-news .movie-item-content-center {
+        top: 50%;
+    }
+    .twitter-meta ul li {
+        margin: 0px 11px;
+    }
+    .home-3 .slider-2 .slider-content {
+        padding: 2% 0;
+    }
+    .home-3 .slider-2 .slider-content > h2 {
+        font-size: 41px;
+    }
+    .home-3 .slider-2.bs-slider {
+        height: 278px;
+    }
+    .home-3 .slide-movie-items .movie-item-contents {
+        margin-top: 0;
+    }
+    .home-3 .Top-rating-items .movie-item-content-center {
+        top: 50%;
+    }
+    .buy-ticket-select {
+        margin: 8px 0;
+    }
+    .buy-ticket-select select {
+        height: 43px;
+        padding: 11px 19px;
+    }
+    .buy-ticket-btn {
+        margin-top: 16px;
+    }
+    .buy-ticket-bg {
+        padding: 17% 9%;
+        padding-bottom: 12%;
+    }
+    .home-4 .buy-ticket-inner {
+        top: 0;
+        position: unset;
+    }
+    .home-4 .new-movie {
+        padding-top: 50px;
+    }
+    .home-4 .slider-2 .slider-content > h2 {
+        margin: 0;
+        font-size: 37px;
+    }
+    .home-4 .slider-2 .slider-contents {
+        padding: 6% 0;
+    }
+    .footer-bg {
+        padding-top: 279px;
+    }
+    .hiddens {
+        display: none
+    }
+    .top-message {
+        margin: 0;
+    }
+    .new-movie-inner .owl-nav {
+        right: 0;
+    }
+    .movie-item-contents {
+        margin-top: 30px;
+    }
+    /** START LATEST NEWS **/
+    .latest-news-section {
+        padding-bottom: 176px;
+    }
+    /**  START COMMING SOON **/
+    .timer-contents {
+        padding: 0;
+        position: relative;
+    }
+    .timer-content h2 {
+        font-size: 51px;
+    }
+    .time-bg {
+        padding: 15% 0;
+    }
+    .timer-content {
+        display: block;
+        position: relative;
+        height: auto;
+    }
+    /** START FOOTER **/
+    .copyright {
+        text-align: center;
+    }
+    .ft-widget {
+        min-height: 376px;
+    }
+    .footer-menu ul li a {
+        margin-right: 14px;
+    }
+    /*** home 2 ***/
+    .header-2 .navbar-brand {
+        padding: 0;
+    }
+    .header-2 .attr-nav > ul > li > a {
+        padding: 0;
+        border-radius: 100%;
+        width: 40px;
+        height: 40px;
+        position: relative;
+        font-size: 0
+    }
+    .header-2 .attr-nav > ul > li.search > a:after {
+        content: "\f002";
+        font-family: fontawesome;
+        font-size: 15px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        padding: 9px 13px;
+    }
+    .slider-2 .slider-content > h2 {
+        font-size: 26px;
+        letter-spacing: -1px;
+        word-spacing: -1px;
+        text-transform: uppercase;
+        margin: 6px;
+    }
+    .slider-2 .slider-content > p {
+        line-height: 22px;
+        margin-bottom: 0;
+        padding: 0;
+        font-size: 14px;
+        padding: 0 62px;
+        height: 45px;
+        overflow: hidden;
+    }
+    .slider-2 .slider-content {
+        padding: 7% 0;
+    }
+    .slider-2 .slider-img {
+        height: auto;
+        object-fit: cover;
+    }
+    .slider-2 .slider-img img {
+        object-fit: cover;
+    }
+    .slider-2.bs-slider {
+        height: 336px;
+    }
+    /*** inner page ***/
+    .event-meta ul li a.event-icon {
+        padding: 18px 42px;
+    }
+    .event-timer .syotimer-cell__value {
+        padding: 11px 29px;
+    }
+    .event-content {
+        padding: 41px 19px;
+    }
+}
+
+@media (min-width:533px) and (max-width:620px) {
+    div.movie-item-content-center {
+        top: 45%;
+    }
+    .top-header {
+        display: none;
+    }
+    .slider-2 .slider-content {
+        padding: 6% 0;
+    }
+    #grid .col-xs-12 {
+        width: 50%;
+    }
+    .dec-review-dec {
+    margin-top: 12%;
+    }
+    .ft-widget {
+        min-height: 366px;
+    }
+}
+
+@media (min-width:320px) and (max-width:667px) {
+    .selebritie-img img {
+        width: 100%;
+    }
+    .selebritie-contetn {
+        padding: 4% 0 27px 0px;
+    }
+    .hadding-area p {
+        padding-right: 97px;
+        font-size: 14px;
+    }
+    .top-visitor,
+    .top-account,
+    .header-logo {
+        text-align: center;
+    }
+    .top-message {
+        margin: 10px 0;
+    }
+    nav.navbar.bootsnav .navbar-toggle {
+        background-color: transparent;
+        color: #fff;
+    }
+    nav.navbar.bootsnav ul.nav > li > a {
+        padding: 13px 15px;
+        font-size: 14px;
+        font-weight: normal;
+    }
+    nav.navbar.bootsnav ul.nav > li > a {
+        margin-bottom: -1px;
+    }
+    nav.navbar.bootsnav ul.nav li.dropdown ul.dropdown-menu > li > a {
+        color: #fff;
+        font-weight: normal;
+    }
+    /*** END HEADER ***/
+    .slider-content > h2 {
+        font-size: 28px;
+        letter-spacing: 0;
+        word-spacing: 0;
+        padding: 7px;
+    }
+    .slider-content a.btn.btn-button {
+        margin-top: 9px;
+    }
+    .slider-img {
+        height: 200px;
+    }
+    .slider-img img {
+        height: 100%;
+    }
+    .slider-contents {
+        padding: 11px 0;
+    }
+    .slider-content > p {
+        height: 72px;
+        overflow: hidden;
+        display: block;
+        padding: 0;
+    }
+    /*** home page 2 ***/
+    .home-5 .top-rating {
+        margin-top: 0;
+    }
+    .header-2 .navbar-brand {
+        padding: 0;
+    }
+    .home-5 nav.navbar.bootsnav .navbar-toggle {
+        background-color: transparent;
+        color: #333;
+    }
+    .home-5 .attr-nav > ul > li > a {
+        padding: 7px 29px 6px 9px;
+        margin: 28px 4px;
+        width: 100%;
+        padding-right: 4px;
+    }
+    .home-5 .slider-img img {
+        height: 100%;
+        width: 100%;
+    }
+    .header-2 .attr-nav > ul > li > a {
+        padding: 0;
+        border-radius: 100%;
+        width: 40px;
+        height: 40px;
+        position: relative;
+        font-size: 0
+    }
+    .header-2 .attr-nav > ul > li.search > a:after {
+        content: "\f002";
+        font-family: fontawesome;
+        font-size: 15px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        padding: 9px 13px;
+    }
+    .slider-2 .slider-content > h2 {
+        font-size: 26px;
+        letter-spacing: -1px;
+        word-spacing: -1px;
+        text-transform: uppercase;
+        margin: 6px;
+    }
+    .slider-2 .slider-content > p {
+        line-height: 24px;
+        margin-bottom: 10px;
+        padding: 0;
+    }
+    .slider-2 .slider-content {
+        padding: 10% 0;
+    }
+    .slider-2 .slider-img {
+        height: auto;
+        object-fit: cover;
+    }
+    .slider-2 .slider-img img {
+        object-fit: cover;
+    }
+    .slider-2.bs-slider {
+        height: 336px;
+    }
+    .home-2 .timer-content h2 {
+        font-size: 30px;
+    }
+    .home-2 .timer-content p {
+        font-size: 19px;
+    }
+    .home-2 .latest-news-small .movie-item-title a {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .home-2 .footer-bg {
+        padding-top: 200px;
+    }
+    .header-2 nav.navbar.bootsnav ul.nav > li > a {
+        padding: 14px 15px;
+    }
+    .dropdown .megamenu-content .col-menu .title {
+        color: #ffffff;
+    }
+    .home-3 .slider-2 .slider-content > h2 {
+        font-size: 26px;
+    }
+    /*** START MOVIE ITEM ***/
+    .movie-item-title {
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+    }
+    .blog-meta {
+        margin-right: 0;
+    }
+    .nav>li>a {
+        padding: 2px 6px;
+    }
+    .cat-menu ul li {
+        margin-right: 0;
+        font-size: 14px;
+    }
+    .movi-item-author img {
+        float: left;
+    }
+    .movi-item-author {
+        padding-top: 5px;
+        overflow: hiddens;
+    }
+    .movi-item-author img {
+        float: left;
+    }
+    .movie-item-content-buttom {
+        padding-bottom: 9px;
+    }
+    .movie-item-contents {
+        position: relative;
+        margin-bottom: 30px;
+    }
+    .movie-item-title > a {
+        font-size: 21px;
+    }
+    .movie-item-beta {
+        margin-top: 7px;
+    }
+    .movie-autho-name a {
+        margin-top: 7px;
+        display: block;
+    }
+    .movie-big .movie-item-content-center {
+        top: 19%;
+    }
+    .Top-rating-items .movie-item-content-center {
+        top: 36%;
+    }
+    .Top-rating-items .owl-item.active.center,
+    .Top-rating-items .owl-item.active.center .movie-item-contents img {
+        height: auto;
+    }
+    .Top-rating-items .owl-item.active.center .movie-item-contents {
+        height: auto;
+        margin-top: 0;
+    }
+    .movie-item-playlist {
+        margin-top: 30px;
+    }
+    .new-movie-inner .owl-nav {
+        top: 0;
+        right: 0;
+    }
+    .movie-date {
+        margin-left: 0;
+    }
+    .plylist-single-content > a {
+        width: 100px;
+        overflow-wrap: break-word;
+        white-space: nowrap;
+        display: inline-block;
+    }
+    .latest-news-small .movie-item-title a {
+        font-size: 20px;
+        line-height: 30px;
+        white-space: normal;
+    }
+    .timer-content p {
+        font-size: 20px;
+    }
+    .syotimer-cell {
+        margin: 7px;
+    }
+    /*** END MOVIE ITEM ***/
+    /**  COMMING SOON **/
+    .timer-contents {
+        padding: 0;
+        position: relative;
+    }
+    .timer-content h2 {
+        font-size: 51px;
+    }
+    .time-bg {
+        padding: 15% 0;
+    }
+    .timer-content {
+        display: block;
+        position: relative;
+        height: auto;
+    }
+    /** END COMMING SOON **/
+    /*** START LATEST NEWS **/
+    .latest-news .movie-item-title {
+        margin-bottom: 15px;
+    }
+    .latest-news .movie-item-content-center {
+        top: 34%;
+    }
+    .latest-news .movie-item-contents {
+        margin-top: 30px;
+    }
+    .movie-item-contents img {
+        width: 100%;
+    }
+    .Top-rating-items .owl-prev,
+    .movie-big .owl-prev {
+        right: 52px;
+    }
+    .Top-rating-items .owl-next,
+    .movie-big .owl-next {
+        right: 13px;
+    }
+    /*** END LATEST NEWS **/
+    /** START BUY TECKET **/
+    .header-2 .attr-nav > ul > li.side-menu > a {
+        display: none;
+    }
+    .home-4 .buy-ticket-inner {
+        top: 0;
+        position: unset;
+    }
+    .buy-ticket-bg {
+        padding: 6% 9%;
+        padding-bottom: 19%;
+    }
+    .buy-ticket-select {
+        margin: 9px 0;
+    }
+    .buy-ticket-btn {
+        margin-top: 19px;
+    }
+    .buy-ticket-inner {
+        top: -252px;
+    }
+    .footer-bg {
+        padding-top: 250px;
+    }
+    /** END BUY TECKET **/
+    /** START FOOTER **/
+    .ft-widget {
+        margin-top: 30px;
+    }
+    .footer-menu ul li a {
+        margin-right: 7px;
+    }
+    .copyright-text {
+        text-align: center;
+    }
+    /** END FOOTER **/
+    .pt-75 {
+        padding-top: 50px;
+    }
+    .home-4 .slider-2 .slider-content > h2 {
+        font-size: 27px;
+        margin: 0;
+        padding: 0;
+    }
+    .home-4 .slider-contents {
+        padding: 18% 0;
+    }
+    .home-4 .buy-ticket-bg {
+        padding-top: 47px;
+    }
+    .home-4 .new-movie {
+        padding-top: 51px;
+    }
+    .home-4 .slider-2 .slider-content {
+        padding: 0;
+    }
+    /*** inner page ***/
+    .event-img,
+    .event-contents {
+        width: 100%;
+    }
+    .event-timer .syotimer-cell__value {
+        padding: 13px 30px;
+    }
+    .event-meta ul li a.event-icon {
+        padding: 21px 44.5px;
+    }
+    .event-meta,
+    .event-timer .event-timers {
+        text-align: center;
+    }
+    .product-filter-list .pagination-wrapper {
+        text-align: center;
+    }
+    .banner-img img {
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+    }
+    .full-withcon {
+        padding-left: 8px;
+        padding-right: 10px;
+    }
+    .breadcrumbs {
+        background-color: #182028;
+        padding: 19px 0;
+    }
+    .breadcrumb>li {
+        font-size: 15px;
+    }
+    .comment-area {
+        padding: 18px 26px;
+        margin-bottom: 75px;
+    }
+    ol.comment-list-reply {
+        margin-left: 0;
+        margin-top: 30px;
+    }
+    .product-filter-list {
+        text-align: center;
+    }
+    .product-filter .sm-width {
+        width: 100%;
+    }
+}
+
+@media (max-width:668px) and (orientation: landscape) {
+    .product-filter .sm-width {
+        width: 33%;
+    }
+    .product-filter-list {
+        text-align: left;
+    }
+    ul.gallery-list li {
+        margin-bottom: 30px;
+        width: 50%;
+        z-index: 999;
+    }
+    .movie-item-content-center,
+    .movie-big .movie-item-content-center {
+        top: 50%;
+    }
+    .page-template .movie-item-content-center {
+        top: 38%;
+    }
+    .dec-review-dec {
+        margin-top: 10%;
+    }
+    .latest-news .movie-item-title {
+        margin-bottom: 15px;
+        padding: 0 21px;
+        white-space: normal;
+    }
+    .header-logo {
+        text-align: left;
+    }
+    .cat-menu ul li {
+        margin-right: 8px;
+        font-size: 20px;
+    }
+    .sm-width {
+        width: 50%;
+    }
+    .copyright {
+        text-align: center;
+    }
+    .ft-widget {
+        min-height: 343px;
+    }
+    .twitter-meta ul li {
+        margin: 0px 11px;
+    }
+    .Top-rating-items .movie-item-title > a,
+    .category-items .movie-item-title > a {
+        font-size: 20px;
+    }
+    .Top-rating-items .item-cat ul li a {
+        font-size: 18px;
+    }
+    .Top-rating-items .item-cat-hover,
+    .category-items .item-cat-hover {
+        margin-top: 0;
+    }
+    .category-items .movie-item-content-center {
+        top: 27%;
+    }
+    .Top-rating-items .movie-item-content-center {
+        top: 70%;
+    }
+    .Top-rating-items .item-cat-hover ul li a,
+    .Top-rating-items .item-cat-hover ul li span {
+        font-size: 14px;
+    }
+    .Top-rating-items .movie-item-beta,
+    .category-items .movie-item-beta {
+        margin-top: 0;
+        padding-top: 0;
+    }
+    .header-search button {
+        padding: 9px 25px;
+    }
+    .latest-news-section {
+        padding-bottom: 246px;
+    }
+    .buy-ticket-select {
+        margin: 8px 0;
+    }
+    .buy-ticket-bg {
+        padding: 17% 9%;
+        padding-bottom: 18%;
+    }
+    .hiddens {
+        display: none
+    }
+    .top-message {
+        margin: 0;
+    }
+    .footer-bg {
+        padding-top: 193px;
+    }
+    .top-account {
+        text-align: left;
+    }
+    .home-2 .slider-2 .slider-content {
+        padding: 14% 0;
+    }
+    .home-2 .slider-2 .slider-content > p {
+        line-height: 26px;
+        margin-bottom: 0;
+        padding: 0;
+        font-size: 14px;
+        padding: 0 79px;
+        height: 50px;
+    }
+    .home-2 .footer-bg {
+        padding-top: 153px;
+    }
+    #grid .col-xs-12 {
+        width: 50%;
+    }
+}
+
+@media (max-width:568px) and (orientation: landscape) {
+    .product-filter .sm-width {
+        width: 100%;
+    }
+    .latest-news-small .movie-item-title a {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .footer-bg {
+        padding-top: 123px;
+    }
+    .home-2 .slider-2 .slider-content {
+        padding: 14% 0;
+    }
+    .home-2 .slider-2 .slider-content > p {
+        line-height: 26px;
+        margin-bottom: 0;
+        padding: 0;
+        font-size: 14px;
+        padding: 0 79px;
+        height: 50px;
+    }
+}
+
+@media (min-width: 533px) and (max-width:660px) {
+    .product-filter .sm-width {
+        width: 100%;
+    }
+    .footer-menu {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .latest-news .movie-item-title {
+        margin-bottom: 15px;
+        white-space: normal;
+    }
+    .footer-bg {
+        padding-top: 26%;
+    }
+    .home-4 .slider-2 .slider-contents {
+        padding: 20% 0;
+    }
+    .event-meta ul li a {
+        padding: 18px 18px;
+    }
+    .event-timer .syotimer-cell__value {
+        padding: 13px 26px;
+    }
+    ul.gallery-list li {
+        margin-bottom: 30px;
+        width: 50%;
+        z-index: 999;
+    }
+}
+
+@media (max-width:480px) and (orientation: landscape) {
+    .product-filter .sm-width {
+        width: 100%;
+    }
+    .home-4 .slider-2 .slider-content {
+        padding: 6% 0;
+    }
+    .cat-menu ul li,
+    .social-link ul li a {
+        margin-right: 0;
+    }
+    .plylist-single-content > a {
+        width: 100px;
+    }
+    .home-2 .footer-bg {
+        padding-top: 200px;
+        padding-bottom: 40px;
+    }
+    .sm-width {
+        width: 100%;
+    }
+    .top-messages,
+    .top-account,
+    .header-logo {
+        text-align: center;
+    }
+    .Top-rating-items .movie-item-content-center {
+        top: 65%;
+    }
+    .category-items .movie-item-content-center {
+        top: 35%;
+    }
+    .footer-bg {
+        padding-top: 150px;
+    }
+    .Top-rating-items .sm-width,
+    .latest-news-small .sm-width {
+        width: 100%;
+    }
+    .latest-news-small .movie-item-title a {
+        font-size: 21px;
+        line-height: 28px;
+    }
+    .ft-widget {
+        min-height: 281px;
+    }
+    .ft-widget h2 span {
+        display: block;
+        clear: both;
+        width: 100%;
+    }
+    .copyright {
+        text-align: center;
+    }
+    .twitter-meta ul li {
+        margin: 0px 11px;
+    }
+    .buy-ticket-bg {
+        padding: 17% 9%;
+        padding-bottom: 18%;
+    }
+    .buy-ticket-btn {
+        margin-top: 10px;
+    }
+    .footer-bg {
+        padding-top: 180px;
+    }
+    ul.gallery-list li {
+        margin-bottom: 30px;
+        width: 50%;
+        z-index: 999;
+    }
+}
+
+@media (min-width:480px) and (max-width:480px) {
+    .home-4 .slider-2 .slider-content {
+        padding: 6% 0;
+    }
+    .slide-movie-items .movie-item-beta {
+        margin-top: -11px;
+        padding-top: 18px;
+    }
+    .slide-movie-items .item-cat {
+        padding: 0 19px;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+}
+
+@media (min-width:300px) and (max-width:480px) {
+    .home-4 .slider-2 .slider-content {
+        padding: 16% 0;
+    }
+    .slider-2 .slider-content {
+        padding: 10% 0;
+    }
+    .top-header {
+        display: none
+    }
+    .plylist-single-content > a {
+        width: 100px;
+    }
+    .home-3 .slider-2 .slider-content {
+        padding: 16% 0;
+    }
+    .product-filter-list {
+        text-align: center;
+    }
+}
+
+@media (min-width:300px) and (max-width:320px) {
+    .slider-content > p {
+        height: 52px;
+    }
+    .slider-content > h2 {
+        font-size: 26px;
+    }
+    .event-meta ul li a.event-icon {
+        padding: 21px 30px;
+    }
+    .event-timer .syotimer-cell__value {
+        padding: 13px 23px;
+    }
+    .comment-area {
+        padding: 0;
+    }
+    .comment-body {
+        padding: 20px 0;
+        padding-left: 0;
+        padding-bottom: 6px;
+    }
+    .product-filter-list {
+        text-align: center;
+    }
+    .product-filter .sm-width {
+        width: 100%;
+    }
+}
+
+@media (min-width:400px) and (max-width:480px) {
+    .movie-item-content-center {
+        top: 36%;
+    }
+    .latest-news-small .movie-item-title a {
+        font-size: 23px;
+        line-height: 29px;
+        white-space: normal;
+        padding: 0 10px;
+    }
+    .latest-news .movie-item-title > a {
+        font-size: 19px;
+        white-space: normal;
+        line-height: 26px;
+    }
+    .footer-bg {
+        padding-top: 286px;
+    }
+    .movie-big .movie-item-content-center {
+        top: 28%;
+    }
+    .product-filter .sm-width {
+        width: 100%;
+    }
+}
+
+@media (max-width: 992px) {
+    nav.navbar.bootsnav .navbar-collapse.collapse.in {
+        background-color: #060f19;
+    }
+    nav.navbar.bootsnav .dropdown .megamenu-content .col-menu .title {
+        color: #ffffff;
+    }
+    nav.navbar.bootsnav .navbar-toggle {
+        padding: 12px;
+        background: transparent;
+        color: #fff;
+    }
+    .header-2 nav.navbar.bootsnav ul.nav > li > a {
+        padding: 13px 15px;
+    }
+    .home-5 nav.navbar.bootsnav ul.nav > li > a {
+        padding: 15px 15px;
+        color: #fff;
+    }
+    .page-template .footer-bg {
+        padding-top: 0;
+    }
+    .peoduct-dec {
+        margin-top: 0px;
+        color: #fff;
+        height: 100px;
+        overflow: hidden;
+    }
+    aside #list .col-xs-12 {
+        width: 100%;
+    }
+}
